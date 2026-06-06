@@ -170,6 +170,6 @@ ScreenshotTool/
 
 **如果觉得有用，请给个 ⭐ Star 支持一下！**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [长春师范大学-罗贵峰]
 
 </div>
